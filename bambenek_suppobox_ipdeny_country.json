@@ -1,0 +1,38 @@
+[
+	{
+		"code": "AU",
+		"value": 2
+	},
+	{
+		"code": "CA",
+		"value": 1
+	},
+	{
+		"code": "DE",
+		"value": 3
+	},
+	{
+		"code": "DK",
+		"value": 1
+	},
+	{
+		"code": "FR",
+		"value": 1
+	},
+	{
+		"code": "GB",
+		"value": 3
+	},
+	{
+		"code": "JP",
+		"value": 3
+	},
+	{
+		"code": "US",
+		"value": 32
+	},
+	{
+		"code": "VG",
+		"value": 2
+	}
+]

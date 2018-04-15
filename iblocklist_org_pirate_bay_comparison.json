@@ -1,0 +1,44 @@
+[
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 85597846,
+		"common": 1
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34666055,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_exclusions",
+		"category": "reputation",
+		"ips": 7487,
+		"common": 320
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762762793,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_yoyo_adservers",
+		"category": "organizations",
+		"ips": 11942,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512268,
+		"common": 1
+	},
+	{
+		"name": "yoyo_adservers",
+		"category": "organizations",
+		"ips": 11942,
+		"common": 1
+	}
+]

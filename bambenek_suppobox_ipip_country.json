@@ -1,0 +1,38 @@
+[
+	{
+		"code": "ANYCAST",
+		"value": 4
+	},
+	{
+		"code": "AU",
+		"value": 2
+	},
+	{
+		"code": "DE",
+		"value": 2
+	},
+	{
+		"code": "DK",
+		"value": 1
+	},
+	{
+		"code": "FR",
+		"value": 2
+	},
+	{
+		"code": "GB",
+		"value": 3
+	},
+	{
+		"code": "IE",
+		"value": 1
+	},
+	{
+		"code": "JP",
+		"value": 3
+	},
+	{
+		"code": "US",
+		"value": 30
+	}
+]

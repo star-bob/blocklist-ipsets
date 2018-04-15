@@ -1,0 +1,38 @@
+[
+	{
+		"code": "DE",
+		"value": 1024
+	},
+	{
+		"code": "GE",
+		"value": 1024
+	},
+	{
+		"code": "IQ",
+		"value": 1024
+	},
+	{
+		"code": "IT",
+		"value": 1024
+	},
+	{
+		"code": "LB",
+		"value": 1024
+	},
+	{
+		"code": "NL",
+		"value": 1024
+	},
+	{
+		"code": "PL",
+		"value": 1024
+	},
+	{
+		"code": "RO",
+		"value": 1024
+	},
+	{
+		"code": "RU",
+		"value": 3072
+	}
+]

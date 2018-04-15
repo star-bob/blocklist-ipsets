@@ -1,0 +1,26 @@
+{
+	"ipset": "bi_asterisk_2_30d",
+	"started": 1512342153000,
+	"updated": 1523200821000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			715,
+			751,
+			775,
+			1320 ],
+		"ips": [ 
+			2,
+			1,
+			1,
+			1 ],
+		"total": 5
+	},
+	"current": {
+		"hours": [ 
+			1938 ],
+		"ips": [ 
+			1 ],
+		"total": 1
+	}
+}
