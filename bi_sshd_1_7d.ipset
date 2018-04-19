@@ -9,15 +9,15 @@
 # Maintainer      : BadIPs.com
 # Maintainer URL  : https://www.badips.com/
 # List source URL : https://www.badips.com/get/list/sshd/1?age=7d
-# Source File Date: Tue Apr 17 05:00:53 UTC 2018
+# Source File Date: Thu Apr 19 18:26:37 UTC 2018
 #
 # Category        : attacks
-# Version         : 225
+# Version         : 226
 #
-# This File Date  : Tue Apr 17 05:00:53 UTC 2018
+# This File Date  : Thu Apr 19 18:26:37 UTC 2018
 # Update Frequency: 6 hours 
 # Aggregation     : none
-# Entries         : 4 unique IPs
+# Entries         : 3 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -29,6 +29,5 @@
 # Processed with FireHOL's iprange
 #
 60.173.82.156
-61.188.189.7
 81.130.146.18
 218.65.30.107

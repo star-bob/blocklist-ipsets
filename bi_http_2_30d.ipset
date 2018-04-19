@@ -9,15 +9,15 @@
 # Maintainer      : BadIPs.com
 # Maintainer URL  : https://www.badips.com/
 # List source URL : https://www.badips.com/get/list/http/2?age=30d
-# Source File Date: Thu Apr 19 00:37:02 UTC 2018
+# Source File Date: Fri Apr 20 00:54:47 UTC 2018
 #
 # Category        : attacks
-# Version         : 797
+# Version         : 798
 #
-# This File Date  : Thu Apr 19 00:37:03 UTC 2018
+# This File Date  : Fri Apr 20 00:54:47 UTC 2018
 # Update Frequency: 1 day 
 # Aggregation     : none
-# Entries         : 35 unique IPs
+# Entries         : 33 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -29,7 +29,6 @@
 # Processed with FireHOL's iprange
 #
 71.6.135.131
-71.6.146.185
 77.247.181.162
 82.221.105.6
 91.200.12.8
@@ -50,7 +49,6 @@
 115.28.212.181
 115.28.240.215
 120.27.31.148
-120.27.35.11
 120.27.37.74
 120.27.100.100
 120.76.114.201

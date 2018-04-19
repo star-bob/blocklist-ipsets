@@ -9,15 +9,15 @@
 # Maintainer      : BadIPs.com
 # Maintainer URL  : https://www.badips.com/
 # List source URL : https://www.badips.com/get/list/proftpd/2?age=30d
-# Source File Date: Tue Apr 10 16:16:20 UTC 2018
+# Source File Date: Thu Apr 19 18:08:52 UTC 2018
 #
 # Category        : attacks
-# Version         : 35
+# Version         : 36
 #
-# This File Date  : Tue Apr 10 16:16:21 UTC 2018
+# This File Date  : Thu Apr 19 18:08:52 UTC 2018
 # Update Frequency: 1 day 
 # Aggregation     : none
-# Entries         : 5 unique IPs
+# Entries         : 4 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -30,6 +30,5 @@
 #
 60.161.145.243
 61.146.233.116
-61.172.115.197
 115.29.43.32
 218.77.80.131

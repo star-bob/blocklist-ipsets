@@ -9,15 +9,15 @@
 # Maintainer      : iBlocklist.com
 # Maintainer URL  : https://www.iblocklist.com/
 # List source URL : http://list.iblocklist.com/?list=czvaehmjpsnwwttrdoyl&fileformat=p2p&archiveformat=gz
-# Source File Date: Tue Oct 24 16:43:10 UTC 2017
+# Source File Date: Fri Apr 20 00:36:58 UTC 2018
 #
 # Category        : attacks
-# Version         : 539
+# Version         : 540
 #
-# This File Date  : Tue Oct 24 16:54:22 UTC 2017
+# This File Date  : Fri Apr 20 00:52:39 UTC 2018
 # Update Frequency: 12 hours 
 # Aggregation     : none
-# Entries         : 7453 subnets, 7583 unique IPs
+# Entries         : 7461 subnets, 7615 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -500,6 +500,7 @@
 38.89.136.117
 38.100.21.61
 38.100.21.62/31
+38.100.21.64/30
 38.100.21.68
 38.100.21.78
 38.100.41.105
@@ -512,6 +513,7 @@
 40.77.167.0
 40.77.167.2
 40.77.167.5
+40.77.167.8/30
 40.77.167.13
 40.77.167.16/31
 40.77.167.23
@@ -519,6 +521,7 @@
 40.77.167.27
 40.77.167.35
 40.77.167.37
+40.77.167.40/30
 40.77.167.44
 40.77.167.49
 40.77.167.52
@@ -1473,6 +1476,7 @@
 66.36.243.132
 66.40.25.236
 66.40.52.25
+66.40.52.28/30
 66.40.52.33
 66.40.52.137
 66.44.14.135
@@ -2506,6 +2510,8 @@
 77.75.77.200
 77.75.78.160/31
 77.75.78.162
+77.75.78.164/30
+77.75.78.168/30
 77.75.78.172
 77.75.79.11
 77.75.79.17
@@ -5864,6 +5870,7 @@
 192.241.247.149
 192.243.55.129
 192.243.55.130/31
+192.243.55.132/30
 192.243.55.136/31
 192.243.55.138
 192.249.47.172
@@ -6609,6 +6616,7 @@
 207.46.13.117
 207.46.13.118/31
 207.46.13.120/31
+207.46.13.124/30
 207.46.13.128
 207.46.13.130/31
 207.46.13.132/31

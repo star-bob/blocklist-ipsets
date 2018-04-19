@@ -8,12 +8,12 @@
 # Maintainer      : CleanTalk
 # Maintainer URL  : https://cleantalk.org/
 # List source URL : https://cleantalk.org/blacklists/top20
-# Source File Date: Wed Apr 18 14:24:52 UTC 2018
+# Source File Date: Thu Apr 19 14:36:24 UTC 2018
 #
 # Category        : abuse
-# Version         : 392
+# Version         : 393
 #
-# This File Date  : Wed Apr 18 14:24:52 UTC 2018
+# This File Date  : Thu Apr 19 14:36:24 UTC 2018
 # Update Frequency: 1 day 
 # Aggregation     : none
 # Entries         : 20 unique IPs
@@ -28,7 +28,6 @@
 # Processed with FireHOL's iprange
 #
 5.188.9.80
-5.188.203.40
 37.115.194.156
 46.119.112.226
 46.161.9.3
@@ -47,3 +46,4 @@
 178.159.37.73
 185.36.102.114
 185.105.118.33
+188.92.75.244

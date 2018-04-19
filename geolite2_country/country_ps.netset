@@ -12,12 +12,12 @@
 # Source File Date: Tue Apr  3 22:41:02 UTC 2018
 #
 # Category        : geolocation
-# Version         : 26
+# Version         : 27
 #
-# This File Date  : Tue Apr 10 13:04:23 UTC 2018
+# This File Date  : Thu Apr 19 07:50:32 UTC 2018
 # Update Frequency: 7 days 
 # Aggregation     : none
-# Entries         : 135 subnets, 678988 unique IPs
+# Entries         : 136 subnets, 678992 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -31,6 +31,7 @@
 5.11.40.0/21
 5.34.160.0/21
 5.43.192.0/19
+5.62.61.80/30
 5.62.63.64/30
 5.102.96.0/19
 5.133.24.0/21
